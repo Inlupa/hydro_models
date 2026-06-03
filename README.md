@@ -6,7 +6,7 @@
 ├── data/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Метео- и гидрологические данные в формате таблиц<br>
 ├── HBV_LuMod/ &nbsp;&nbsp;&nbsp; # Jupyter Notebook с реализацией HBV на Python<br>
 ├── GR4J_airGR/ &nbsp;&nbsp;&nbsp;&nbsp; # Скрипты и R-файлы для модели GR4J<br>
-└── results/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Графики, полученные после моделирования
+└── Results/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Графики, полученные после моделирования
 ---
 
 ## 🌀 HBV с использованием LuMod (Python)
