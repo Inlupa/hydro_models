@@ -3,7 +3,7 @@
 Репозиторий содержит примеры реализации концептуальных гидрологических моделей **HBV** и **GR4J** на языках Python и R соответственно. Эти модели использовались для исследования поведения речного стока на примере водосбора реки Вельва и Буктырма.
 
 ## 📁 Структура репозитория
-├── data/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Метео- и гидрологические данные в формате таблиц<br>
+├── data/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Метео- и гидрологические данные в таблицах<br>
 ├── HBV_LuMod/ &nbsp;&nbsp;&nbsp; # Jupyter Notebook с реализацией HBV на Python<br>
 ├── GR4J_airGR/ &nbsp;&nbsp;&nbsp;&nbsp; # Скрипты и R-файлы для модели GR4J<br>
 └── Results/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Графики, полученные после моделирования
